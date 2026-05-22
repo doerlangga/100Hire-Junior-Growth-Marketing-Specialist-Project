@@ -1,1 +1,0 @@
-# Junior-Growth-Marketing-Specialist-Project
