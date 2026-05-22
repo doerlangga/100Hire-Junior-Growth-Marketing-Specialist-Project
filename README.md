@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository was created as the first step of the portfolio project for the Junior Growth Marketing Specialist application process.
+This repository was created as the first step of the portfolio project for the 100Hire Junior Growth Marketing Specialist application process.
 
 The purpose of this step was to set up the required tools, create a GitHub repository, document the process, and submit the README.md file as requested.
 
