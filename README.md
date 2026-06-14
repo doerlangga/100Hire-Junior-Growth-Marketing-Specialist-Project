@@ -43,4 +43,8 @@ As a Junior Growth Marketing Specialist, I believe this type of workflow is rele
 
 ## Status
 
+<<<<<<< HEAD
 Setup documentation completed successfully.
+=======
+Setup documentation completed successfully.
+>>>>>>> 4e123e552110f13af77a25f47cfca75925cd16ea
