@@ -1,0 +1,34 @@
+# Tas Bober
+
+## Content 1
+Date: January 2026
+Source URL: https://www.linkedin.com/posts/tasbober_heres-the-honest-annual-review-of-my-business-activity-7412142698440241152-2sgd
+Topic: Honest 2025 solo-consultancy annual review—close rates, revenue trade-offs, and what actually drove inbound
+Summary: Bober published a transparent year-in-review on LinkedIn for The Scroll Lab, reporting 80% close rates, 100% inbound deals (80% landing-page projects, 20% brand work), and a new Notorious B2B podcast with sponsorship revenue. She also disclosed posting 46% less than the prior year, which correlated almost 1:1 with a 14% revenue decrease—while she intentionally optimized for a three-day workweek and more family time. She shared content-to-lead patterns from her own feed: process breakdown posts generated leads within 7 days, infographics lifted conversions in 1–3 weeks, and explicit CTAs drove immediate leads (though she rarely uses them). She announced 2026 plans including more process posts, infographics, podcast sponsorships, and a new show with Tim Davidson called The Marketer's Exit.
+3 Key Takeaways:
+- LinkedIn posting volume maps directly to inbound pipeline for niche B2B consultants—Bober's 46% posting decrease produced a near-proportional 14% revenue drop, validating organic content as her primary demand-gen channel.
+- Not all LinkedIn formats convert equally: tactical process breakdowns drive leads fastest (within 7 days), infographics build conversion lift over 1–3 weeks, and explicit asks convert immediately but feel inauthentic to many founders.
+- Radical honesty in annual recap posts builds trust and differentiates from polished "everything went great" recaps—sharing trade-offs between time, revenue, and lifestyle resonates with B2B operators measuring success beyond growth-at-all-costs.
+Why Relevant: Bober is a B2B SaaS landing-page specialist who built a 26K+ LinkedIn following and 100% inbound consultancy through organic content. Her own data on posting volume → inbound correlation, plus format-specific lead timing, gives B2B SaaS marketers a concrete framework for founder-led LinkedIn demand gen without paid media.
+
+## Content 2
+Date: April 14, 2026
+Source URL: https://www.insightly.com/episodes/b2b-landing-page-strategy/
+Topic: The "Core Four" B2B landing page framework for paid media teams (Closing Time podcast with Unbounce/Insightly)
+Summary: On the Closing Time podcast, Bober breaks down her Core Four framework—the middle ground between sending paid traffic to a generic homepage and managing 60+ hyper-specific landing pages. The four pages align to how B2B buyers actually decide: (1) Overview—a marketer-controlled "paid media homepage" with one clear problem, solution, and CTA, free of stakeholder clutter; (2) Comparison—framing status quo, partial solutions, and purpose-built tools (not just feature wars), since ~60% of deals are lost to inaction; (3) Social Proof—a voice-of-the-customer page capturing review-intent searches before buyers land on G2 or Reddit; and (4) Demo/Signup—for high-intent buyers who have already consumed prior pages. She advocates modular "Chipotle Framework" building—reusing problem blocks, value props, and proof sections across pages—and announced an Unbounce partnership releasing Figma templates and builder-ready layouts.
+3 Key Takeaways:
+- Stop sending paid traffic to your homepage: homepages are "quilts" of stakeholder opinions (HR awards, product launches, leadership positioning) that create message mismatch and punish ad relevance—paid needs a focused overview page marketers control.
+- Replace dozens of keyword-specific pages with four strategic evergreen pages that map to buyer intent stages, dramatically reducing maintenance while improving relevance and sustainability.
+- Build pages modularly using reusable blocks (problem, solution, proof, expectations, ask) packaged differently per page intent—same ingredients, different "burrito vs. taco bowl" framing based on what the buyer is searching for.
+Why Relevant: The Core Four is Bober's signature framework for B2B SaaS paid media landing pages—the exact intersection of demand gen, conversion optimization, and buyer psychology. For growth teams struggling with rising CPLs, this replaces the false choice between one homepage and page sprawl with a scalable, buyer-journey-aligned destination strategy.
+
+## Content 3
+Date: October 15, 2025
+Source URL: https://www.clearvoice.com/resources/cv-mic-tas-bober-b2b-landing-page-optimization/
+Topic: Consumption rate optimization, writing for the mode, and building a sustainable niche consultancy (CV MIC interview)
+Summary: In ClearVoice's Marketers in Conversation (CV MIC) interview, Bober shares how she built The Scroll Lab around a three-day workweek and a "trifecta" of financial comfort, meaningful work, and time back—hiring copywriters better than her in specific areas rather than chasing 10X growth. She makes her core philosophical argument: marketers should shift from conversion rate optimization (CRO) to consumption rate optimization—tracking scroll depth, heatmaps, and session recordings to understand how visitors engage with information before they ever reach a form. She cites a client example where surfacing a buried FAQ as a standalone block drove 250%+ conversion lift. She also covers "writing for the mode" (LinkedIn = punchy, landing pages = clarity, blogs = depth), running buzzword counts on copy, flipping landing page creation from stakeholder "quilts" to buyer business cases, and predicting conversational/AI-driven websites will reward companies that publish clear, context-rich information over jargon.
+3 Key Takeaways:
+- Measure consumption before conversions: scroll depth, heatmaps, and session recordings reveal where buyers engage or disengage—conversions are a lagging indicator, and optimizing information consumption upstream drives bigger lifts than CTA tweaks.
+- Start landing pages with the buyer's business case (problem, alternatives, proof, pricing, next steps) instead of stitching together stakeholder opinions—pages built this way become tools buyers use to secure internal approvals.
+- Write for the mode, not just the medium: attention spans aren't shrinking—they're selective; clarity at an 8th–10th-grade reading level isn't dumbing down, it's respecting overloaded B2B buyers who will choose the simplest path to consume information.
+Why Relevant: Bober's consumption-over-conversion thesis directly challenges how most B2B SaaS teams measure landing page success. For growth marketers building paid and organic funnels, her framework reframes optimization from form-fill metrics to information engagement—especially critical for long, multi-stakeholder B2B buying cycles where buyers research extensively before ever raising their hand.
